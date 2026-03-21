@@ -13,7 +13,7 @@ Made [Ophelia](ht), a feature-rich download manager.
 
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bun,typescript,rust,go,elysia,nextjs,vue,nuxt,svelte,python,supbase,vercel,aws,tailwindcss" alt="bun,typescript,rust,go,elysia,nextjs,vue,nuxt,svelte,python,supbase,vercel,aws,tailwindcss" />
+    <img src="https://skillicons.dev/icons?i=bun,typescript,rust,go,elysia,nextjs,vue,nuxt,svelte,python,supabase,vercel,aws,tailwindcss" alt="bun,typescript,rust,go,elysia,nextjs,vue,nuxt,svelte,python,supabase,vercel,aws,tailwindcss" />
   </a>
 </p>
 
