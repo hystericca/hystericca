@@ -6,7 +6,7 @@ Made [Ophelia](ht), a feature-rich download manager.
 
 
 <p align=center>
-  <img width=279 src=https://github.com/gorewife/gorewife/blob/main/image.png alt="devlog" />
+  <img width=500 src=https://github.com/gorewife/gorewife/blob/main/image.png alt="devlog" />
 </p>
 
 <p align=center>
