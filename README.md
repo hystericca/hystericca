@@ -9,10 +9,10 @@ Here's all my accomplishments in my life you miserable bastard
 
 
 <p justify=left>
-  <img width=450 src=https://github.com/hystericca/hystericca/blob/main/image.png alt="devlog" />
+  <img width=400 src=https://github.com/hystericca/hystericca/blob/main/devlog.png alt="devlog" />
 </p>
 <p justify=right>
-  <img width=450 src=https://github.com/hystericca/hystericca/blob/main/image.png alt="devlog" />
+  <img width=400 src=https://github.com/hystericca/hystericca/blob/main/ophelia.png alt="ophelia" />
 </p>
 
 <p align=center>
