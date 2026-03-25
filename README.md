@@ -8,11 +8,9 @@ Here's all my accomplishments in my life you miserable bastard
 - Made [this kickass website](https://www.hystericca.dev/) that also doubles as a portfolio and a blog and it spews laser and did you know my advanced astrofuckingphysics PhD academia lore are on here? and did you know it has cool animations that I didn't steal? did you know that?
 
 
-<p justify=left>
+<p align="center">
   <img width=400 src=https://github.com/hystericca/hystericca/blob/main/devlog.png alt="devlog" />
-</p>
-<p justify=right>
-  <img width=400 src=https://github.com/hystericca/hystericca/blob/main/ophelia.png alt="ophelia" />
+   <img width=400 src=https://github.com/hystericca/hystericca/blob/main/ophelia.png alt="ophelia" />
 </p>
 
 <p align=center>
