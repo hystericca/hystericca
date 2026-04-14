@@ -1,6 +1,6 @@
-## This README is in active development (Alpha v0.2.0)
+## This README is in active development (Alpha v0.2.1)
 I am not non-chalant, neither are you. That's why we're on GitHub and not on librefreecodeopensourcecodesoftware.git
-Here's all my accomplishments in my life you miserable bastard
+Here's all my accomplishments in my life ya dirty bastard.
 
 - Made [Ophelia](https://github.com/ophelianz/ophelia), a feature-rich download manager.
 - Made [this kickass website](https://www.hystericca.dev/) that also doubles as a portfolio and a blog and it spews laser and did you know my advanced astrofuckingphysics PhD academia lore lecture notes are on here? and did you know it has cool animations that I didn't steal? did you know that?
